@@ -1,12 +1,12 @@
-
-header{
-    background-color: rgb(0, 14, 90);
+body {
+    background-color: rgb(56, 99, 14);
+    color: white;
 }
 
-body{
-    background-color:rgb(56, 99, 14);
-    color:rgb(109, 91, 87);
+header {
+    background-color: rgb(0, 0, 0);
 }
-h2{
-    color:rgb(255, 0, 0);
+
+h2 {
+    color: rgb(255, 0, 0);
 }
