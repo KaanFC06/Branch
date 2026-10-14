@@ -1,7 +1,12 @@
-body{
-    background-color:rgb(155, 156, 154);
-    color:white;
+body {
+    background-color: rgb(56, 99, 14);
+    color: white;
 }
-header{
+
+header {
     background-color: rgb(0, 0, 0);
+}
+
+h2 {
+    color: rgb(255, 0, 0);
 }
